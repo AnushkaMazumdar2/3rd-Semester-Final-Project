@@ -31,13 +31,22 @@ The Forgery Detection Platform is a comprehensive solution designed to detect an
    - _Model Training and Fine-Tuning_: Deep learning models, including pretrained CNNs and LSTM networks, are trained and fine-tuned on large datasets of labeled examples, enabling them to learn complex patterns and features associated with both text and image forgery.
    - _Classification_: DL models are utilized to classify content as authentic or forged based on learned representations, enabling the platform to provide accurate and reliable forgery detection results.
 
-5. **Interpretability and Visualization:**
-   - Provides intuitive visualization tools, such as ELA-highlighted regions and classification outcomes, to aid in result interpretation.
-   - Enhances transparency and usability by offering clear insights into forgery detection results.
+5. **Project Deployment:**
+   - The project is deployed using Python's GUI PYQT5 library
 
-6. **Scalability and Adaptability:**
-   - Offers scalability and adaptability to handle diverse types of forgery across various domains and applications.
-   - Suitable for applications ranging from social media content moderation to document authentication.
+---
+
+---
+**Methodology**
+The project consists of two parts: Image and Text Forgery Detection
+
+1. **Image Forgery Detection**:
+   - Model Testing: This module consists of the testing of our pre-trained models. The models: "Error Level Analysis", "VGG-16" and "VGG-19" were trained on the forensic benchmark dataset: CASIA v2. One can test using these pre-trained models against tampered and authentic images to check which is authentic and which is not.
+   - Model Training: This module will allow users to train these models on their own customised datasets. 
+   - Model Testing on Re-trained Models: This module allows users to test on the newly trained models that has been stored locally in their systems.
+
+3. **Text Forgery Detection**:
+   - Model Testing: This module allows users to test on models such as "DistilBERT" and "LSTM", which have been trained on the dataset: Spam Classification Model. 
 
 ---
 **Effectiveness and Benefits:**
@@ -48,6 +57,15 @@ The Forgery Detection Platform is a comprehensive solution designed to detect an
 - _Scalability and Adaptability_: CV, NLP, and DL techniques offer scalability and adaptability, allowing the platform to handle diverse types of forgery across various domains and applications, from social media content moderation to document authentication.
 
 ---
+
+---
+**Demonstration Video:**
+Watch our demonstration video to see our Text and Image Forgery Detection Platform in action! In this video, we showcase how our platform effectively detects fraudulent text and image content using advanced Natural Language Processing (NLP), Computer Vision (CV), and Deep Learning (DL) techniques.
+
+
+
+---
+
 **Usage:**
 
 1. **Installation:**
