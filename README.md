@@ -66,9 +66,9 @@ The project consists of two parts: Image and Text Forgery Detection
 Watch our demonstration video to see our Text and Image Forgery Detection Platform in action! In this video, we showcase how our platform effectively detects fraudulent text and image content using advanced Natural Language Processing (NLP), Computer Vision (CV), and Deep Learning (DL) techniques.
 
 
+https://github.com/AnushkaMazumdar2/3rd-Semester-Final-Project/assets/140642505/68de7578-883a-411c-a959-a6eaf2af8d01
 
 
-https://github.com/AnushkaMazumdar2/3rd-Semester-Final-Project/assets/140642505/45f79879-6b70-452a-ad4b-aeb310f4610a
 
 
 ---
