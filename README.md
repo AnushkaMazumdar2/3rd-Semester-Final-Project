@@ -35,6 +35,9 @@ The Forgery Detection Platform is a comprehensive solution designed to detect an
    - The project is deployed using Python's GUI PYQT5 library
 
 ---
+**Project Workflow**
+![Purple and Green Minimalist Color Blocks Concept Map Chart](https://github.com/AnushkaMazumdar2/3rd-Semester-Final-Project/assets/140642505/1e5144b6-9ef1-4025-bf4a-5d55727cc75a)
+
 
 ---
 **Methodology**
